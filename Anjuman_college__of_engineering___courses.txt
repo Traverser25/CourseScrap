@@ -1,0 +1,27 @@
+Degree: Bachelor of Engineering [BE]
+Courses:
+  - Computer Science And Engineering
+  - Electronics & Telecom Engineering
+  - Civil Engineering
+  - Artificial Intelligence and Data Science
+
+--------------------------------------------------
+Degree: Bachelor of Engineering [BE] {Lateral}
+Courses:
+  - Computer Science And Engineering
+  - Electronics & Telecom Engineering
+  - Civil Engineering
+  - Artificial Intelligence and Data Science
+
+--------------------------------------------------
+Degree: Master of Technology [M.Tech]
+Courses:
+  - Computer Science And Engineering
+  - Electronics & Telecom Engineering
+  - Civil Engineering
+  - Artificial Intelligence and Data Science
+
+--------------------------------------------------
+Degree: Ph.D
+
+--------------------------------------------------
